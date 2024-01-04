@@ -3,7 +3,7 @@
     "description": "Benchmark that compares object vs array for data with predetermined structure",
     "type": "project",
     "require": {
-        "phpbench/phpbench": "^0.13"
+        "phpbench/phpbench": "^1.2"
     },
     "license": "MIT",
     "authors": [
